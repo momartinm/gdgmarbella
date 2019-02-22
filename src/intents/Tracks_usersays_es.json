@@ -1,0 +1,114 @@
+[
+  {
+    "id": "75bed249-13d1-4425-b5f2-9a1ea432e495",
+    "data": [
+      {
+        "text": "Cuantos tracks tenéis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  },
+  {
+    "id": "4f1a02b5-a9ba-420c-9c54-3a089ba5f824",
+    "data": [
+      {
+        "text": "Que puedo ver allí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  },
+  {
+    "id": "12d6434c-dd9d-425c-a8da-97758b1927bb",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  },
+  {
+    "id": "7bf9f458-793a-4fd4-ac50-1ccb87f4f8aa",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en el evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  },
+  {
+    "id": "984620ac-3317-4157-804a-cad7d6f31bf2",
+    "data": [
+      {
+        "text": "¿Existen varios tracks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729790
+  },
+  {
+    "id": "76c32ac8-cd48-4909-bfd0-23f62951b5a9",
+    "data": [
+      {
+        "text": "Cuantos tracks ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  },
+  {
+    "id": "828bc532-4780-4eda-a542-6e8419bb3a66",
+    "data": [
+      {
+        "text": "¿Cuantos tracks ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737637
+  }
+]

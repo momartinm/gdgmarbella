@@ -1,0 +1,43 @@
+{
+  "id": "bc3749af-d5dc-4f2e-a3f9-186334b41200",
+  "name": "Donde",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_necesidad",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Centro Cultural Hospital Real de la Misericordia en la calle Periodista Daniel Saucedo Aranda en la calle Plaza Practicante Manuel Cantos",
+            "Pues en Marbella, en la calle Plaza Practicante Manuel Cantos",
+            "Pues es en Marbella, pregúntale a Google Maps",
+            "Pues usa el transporte público que contamina menos",
+            "Es en Marbella en la calle Plaza Practicante Manuel Cantos, ves buscando parking",
+            "Aquí está la página web http://gdgmarbella.com/logistics/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550737547,
+  "fallbackIntent": false,
+  "events": []
+}

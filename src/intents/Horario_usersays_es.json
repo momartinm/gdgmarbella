@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2893d329-9568-4278-9db1-08a4d5a1da99",
+    "data": [
+      {
+        "text": "Cual es el horario del evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728318
+  },
+  {
+    "id": "4f51bff6-bb8d-4996-aea7-46678eed5f41",
+    "data": [
+      {
+        "text": "Cual es el horario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728318
+  },
+  {
+    "id": "8b6403bd-4ef3-4b31-b49d-47a729ffc533",
+    "data": [
+      {
+        "text": "Que horario tiene el devFest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728318
+  }
+]

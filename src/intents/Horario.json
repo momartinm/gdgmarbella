@@ -1,0 +1,35 @@
+{
+  "id": "7cf57631-e7da-4496-b382-ae9e925a82ab",
+  "name": "Horario",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "El DevFest Marbella 2019 comienza a las 9:00 y termina a las 14:15",
+            "El horario es de 9:00 a 14:15",
+            "El horario de Devfest Marbella 2019 es de 9:00 a 14:05",
+            "Tenemos un horario de 9:00 a 14:05"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550728318,
+  "fallbackIntent": false,
+  "events": []
+}

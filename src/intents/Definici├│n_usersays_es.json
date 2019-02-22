@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18d46d47-e5b2-4e67-b45a-6be081be456d",
+    "data": [
+      {
+        "text": "Qué es DevFest ",
+        "userDefined": false
+      },
+      {
+        "text": "Marbella",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729625
+  },
+  {
+    "id": "63f530cf-48c0-44b4-acfb-254ee755bbbb",
+    "data": [
+      {
+        "text": "En que consiste DevFest ",
+        "userDefined": false
+      },
+      {
+        "text": "Marbella",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1550729625
+  },
+  {
+    "id": "ff0eacb3-9e66-4c44-9db1-9efc97e0add4",
+    "data": [
+      {
+        "text": "En que consiste DevFest Marbella ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729625
+  },
+  {
+    "id": "f942aabf-865e-4c13-8c9e-54d78739047b",
+    "data": [
+      {
+        "text": "Que es DevFest Marbella ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1550729625
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cc5d63c1-ad8d-4bee-8e60-e4ace55ac93b",
+    "data": [
+      {
+        "text": "Que tipo de charlas tenéis en el track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Estudiante",
+        "meta": "@Estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728884
+  },
+  {
+    "id": "444682da-0909-4c8b-bbbd-fc697d978c62",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en el track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Estudiante",
+        "meta": "@Estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728884
+  },
+  {
+    "id": "6e80f081-cc60-46de-b5ae-12de827a0b39",
+    "data": [
+      {
+        "text": "Cual es el horario del track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Estudiante",
+        "meta": "@Estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550728884
+  }
+]

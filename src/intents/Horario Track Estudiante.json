@@ -1,0 +1,64 @@
+{
+  "id": "564f1080-a5c1-4900-b314-6fef1dc52e84",
+  "name": "Horario Track Estudiante",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73944e6b-7556-4f59-a9a3-8393a05c57e6",
+          "required": false,
+          "dataType": "@Estudiante",
+          "name": "Estudiante",
+          "value": "$Estudiante",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "9:30 a 10:15 - Keynote (Alberto Gutierrez)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "10:15 a 11:00 - Cómo crear tu primer chatbot (Moisés Martínez)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "11:00 a 12:00 - Coffee Break (Espero que haya sido bueno)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "12:00 a 12:45 - Trabajando con Git y personas (Jesús López)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "12:45 a 13:30 - Desarrollo de aplicaciones móviles con flutter (José Manuel Marquez)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "13:30 a 14:15 - El trabajo de tus sueños ... viviendo en el sitio de tus sueños (Rocio Valdivia)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550729157,
+  "fallbackIntent": false,
+  "events": []
+}

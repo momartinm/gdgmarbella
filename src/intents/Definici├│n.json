@@ -1,0 +1,43 @@
+{
+  "id": "791bcad1-a35d-4a97-8ff8-117272adf61b",
+  "name": "Definición",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46697450-82d0-4034-94f8-8168489c4699",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Es un evento sobre tecnología con charlas tecnológicas para estudiantes y profesionales",
+            "Es un evento tecnológico que se organiza en Marbella",
+            "Es un mejor evento tecnológico de toda Andalucía."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550729625,
+  "fallbackIntent": false,
+  "events": []
+}

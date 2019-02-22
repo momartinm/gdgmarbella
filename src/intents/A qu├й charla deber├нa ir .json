@@ -1,0 +1,40 @@
+{
+  "id": "a1e45707-9abc-4edc-a0e6-e88dc44c7236",
+  "name": "A qué charla debería ir ",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_necesidad",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Que vengas a ver la charla sobre chatbots de @moisip",
+            "Obvio ven al devfest Marbella 2019",
+            "Que te pases ha aprender en devfest Marbella 2019"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550738093,
+  "fallbackIntent": false,
+  "events": []
+}

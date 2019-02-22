@@ -1,0 +1,92 @@
+{
+  "id": "6b652f6e-9f96-4a20-af82-ea62695c0aad",
+  "name": "Usuario Necesita Algo",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_track",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4356687-c6e5-42aa-b973-afc45207bf2d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        },
+        {
+          "id": "9c27cab8-c003-41fc-8054-4c17bc77dad1",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "1"
+            },
+            {
+              "lang": "es",
+              "value": "2"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d0ef8d93-1116-4569-9bb1-bc309e0182a9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "track",
+          "value": "$track",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "track"
+            },
+            {
+              "lang": "es",
+              "value": "sala"
+            },
+            {
+              "lang": "es",
+              "value": "habitación"
+            },
+            {
+              "lang": "es",
+              "value": "hueco"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Las temáticas del track $number son:",
+            "En el track $number tenemos las siguiente temáticas"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542338875,
+  "fallbackIntent": false,
+  "events": []
+}

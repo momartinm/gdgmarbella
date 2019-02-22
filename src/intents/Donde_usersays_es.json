@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6b840063-0fb9-4860-ba91-6607770ea7da",
+    "data": [
+      {
+        "text": "¿Cómo llego al evento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737547
+  },
+  {
+    "id": "cb3008ea-edfc-46ff-8cf5-402a12ec5991",
+    "data": [
+      {
+        "text": "Cómo llego al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737547
+  },
+  {
+    "id": "ca5aa792-a0e6-48bd-b760-7c949a45ff4f",
+    "data": [
+      {
+        "text": "¿Dónde es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737547
+  },
+  {
+    "id": "8b08efcf-a65b-4c13-8b2c-9a5dea1dad3f",
+    "data": [
+      {
+        "text": "Dónde se celebra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737547
+  },
+  {
+    "id": "3989c112-9be1-4b0b-8ac2-b0c62b170110",
+    "data": [
+      {
+        "text": "Dónde se organiza el evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550737547
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "8fe0f423-bff9-481f-ac8c-7b26d924bfdd",
+    "data": [
+      {
+        "text": "Que hay en el track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Profesional",
+        "meta": "@Profesional",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550730215
+  },
+  {
+    "id": "c70c6f64-8f75-426d-bc66-613600668bd3",
+    "data": [
+      {
+        "text": "Que puedo ver en el track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Profesional",
+        "meta": "@Profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729876
+  },
+  {
+    "id": "ee053a15-9b32-4df3-954c-701680d8ac83",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en el track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Profesional",
+        "meta": "@Profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729876
+  },
+  {
+    "id": "cdf61814-97c3-4ec3-ad0f-d4a7e6d248ca",
+    "data": [
+      {
+        "text": "Cual es el horario del track de ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "Profesional",
+        "meta": "@Profesional",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550729876
+  }
+]

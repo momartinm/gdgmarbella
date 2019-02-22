@@ -1,0 +1,33 @@
+{
+  "id": "83464db6-7971-4fc8-97d6-370852a965c9",
+  "name": "Padre",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "@moisip",
+            "https://twitter.com/moisipm?lang\u003des"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550730997,
+  "fallbackIntent": false,
+  "events": []
+}

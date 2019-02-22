@@ -1,0 +1,42 @@
+{
+  "id": "82b97e16-a505-4694-8a98-f3296e3d61a1",
+  "name": "Tracks",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "081442be-8770-4400-869c-9a07668065b9",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Existen dos tracks de charlas: uno para estudiantes y otro para profesionales",
+            "Existen dos tracks de charlas: estudiante y profesionales"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550737637,
+  "fallbackIntent": false,
+  "events": []
+}

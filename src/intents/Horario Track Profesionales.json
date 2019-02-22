@@ -1,0 +1,59 @@
+{
+  "id": "d1240d48-f3f2-4c93-99d8-c6b1b56e3725",
+  "name": "Horario Track Profesionales",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "350f97fd-1ac5-4b07-8fe6-8978c231b21f",
+          "required": false,
+          "dataType": "@Profesional",
+          "name": "Profesional",
+          "value": "$Profesional",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "10:15 a 11:00 - Introducción a TDD (Jesús Lopez)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "11:00 a 12:00 - Coffee Break"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "12:00 a 12:45 - Un técnico vendiendo (Fernando Hidalgo)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "12:45 a 13:30 - Introducción a Blockchain (Francisco Gutierrez)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "13:30 a 14:15 - El día que creamos una IA para jugar a la Abadía del Crimen (JuanTomas García)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550730215,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0d917285-e3af-4b7f-ad5f-5e759c74853a",
+  "name": "HayCharla",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa00e3f1-1229-4ceb-abb7-6b9da24bfc08",
+          "required": true,
+          "dataType": "@tematica",
+          "name": "tematica",
+          "value": "$tematica",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Sí, tenemos algunas charlas de $tematica",
+            "Tenemos charlas muy interesantes de $tematica"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542340447,
+  "fallbackIntent": false,
+  "events": []
+}

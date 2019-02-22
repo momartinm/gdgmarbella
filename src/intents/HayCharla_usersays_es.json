@@ -1,0 +1,56 @@
+[
+  {
+    "id": "6b21d3e2-2a2e-46f5-a3d8-b7ddb09e4627",
+    "data": [
+      {
+        "text": "Tenéis charlas de ",
+        "userDefined": false
+      },
+      {
+        "text": "@tematica",
+        "alias": "tematica",
+        "meta": "@tematica",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542340447
+  },
+  {
+    "id": "408a347f-b6c6-4b83-898d-c08ae06e53dd",
+    "data": [
+      {
+        "text": "Hay charlas de ",
+        "userDefined": false
+      },
+      {
+        "text": "@tematica",
+        "alias": "tematica",
+        "meta": "@tematica",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542340447
+  },
+  {
+    "id": "fb1e742e-3784-4ee8-8cc8-551fd8e2d6e5",
+    "data": [
+      {
+        "text": "Existe alguna charla de ",
+        "userDefined": false
+      },
+      {
+        "text": "@tematica",
+        "alias": "tematica",
+        "meta": "@tematica",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542340447
+  }
+]

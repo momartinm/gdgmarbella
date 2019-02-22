@@ -1,0 +1,34 @@
+{
+  "id": "3dcd9388-9a12-4cdb-8490-e41a21480ca0",
+  "name": "Descripción",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Soy el chatbot de DesFest Marbella 2019",
+            "Soy el chatbot de la charla \"Cómo crear tu primer chat\" en DevFest Marbella 2019",
+            "Soy el puto amo de los chatbots en DevFest Marbella 2019"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550730722,
+  "fallbackIntent": false,
+  "events": []
+}

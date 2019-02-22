@@ -1,0 +1,35 @@
+{
+  "id": "e0d7b6c4-c56d-4862-a7c2-9df777badc13",
+  "name": "Cuando",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Se celebra el 21 de Febrero de 2019.",
+            "Es el día  21 de Febrero de 2019.",
+            "Es en Febrero de 2019, el día 21."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550729454,
+  "fallbackIntent": false,
+  "events": []
+}
